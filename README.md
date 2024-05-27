@@ -5,9 +5,10 @@ Welcome to the Mini project REGRESSION ON TRAINING DATASET. This project mainly 
 
 # OBJECTIVES : 
 # (1) Exploratory Data Analysis on the Dataset.
-# (2) Checking if the data is normally distributed or not.
-# (3) Feature Engineering.
-# (4) Splitting the final dataset into Training and Testing dataset.
-# (5) Building the Regression model
+# (2) One-hot encoding
+# (3) Checking if the data is normally distributed or not.
+# (4) Feature Engineering.
+# (5) Splitting the final dataset into Training and Testing dataset.
+# (6) Building the Regression model
 
 
