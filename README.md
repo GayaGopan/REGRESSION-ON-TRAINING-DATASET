@@ -11,4 +11,5 @@ Welcome to the Mini project REGRESSION ON TRAINING DATASET. This project mainly 
 # (5) Splitting the final dataset into Training and Testing dataset.
 # (6) Building the Regression model
 
+# CONCLUSION
 
